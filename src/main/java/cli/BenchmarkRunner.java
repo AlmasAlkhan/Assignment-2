@@ -196,3 +196,4 @@ public class BenchmarkRunner {
         System.out.println("  java -jar assignment2-minheap.jar all");
     }
 }
+// CLI runner
