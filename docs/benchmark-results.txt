@@ -1,0 +1,124 @@
+
+==================================================
+BENCHMARKING SIZE: 100
+==================================================
+=== MinHeap Insert Benchmark (n=100) ===
+Size: 100
+Comparisons: 197
+Swaps: 102
+Execution Time: 0.445958 ms
+Average Time per Insert: 0.00445958 ms
+
+=== MinHeap Extract Benchmark (n=100) ===
+Extractions: 100
+Comparisons: 1028
+Swaps: 415
+Execution Time: 0.363541 ms
+Average Time per Extract: 0.00363541 ms
+
+=== MinHeap DecreaseKey Benchmark (n=100) ===
+Decrease Operations: 50
+Comparisons: 91
+Swaps: 11
+Execution Time: 0.064125 ms
+
+=== MinHeap Merge Benchmark (n=100) ===
+Heap1 Size: 100
+Heap2 Size: 100
+Merged Size: 200
+Comparisons: 0
+Swaps: 0
+Execution Time: 0.109125 ms
+
+==================================================
+BENCHMARKING SIZE: 1000
+==================================================
+=== MinHeap Insert Benchmark (n=1000) ===
+Size: 1000
+Comparisons: 2205
+Swaps: 1212
+Execution Time: 0.544042 ms
+Average Time per Insert: 5.44042E-4 ms
+
+=== MinHeap Extract Benchmark (n=1000) ===
+Extractions: 1000
+Comparisons: 16682
+Swaps: 7342
+Execution Time: 1.370166 ms
+Average Time per Extract: 0.001370166 ms
+
+=== MinHeap DecreaseKey Benchmark (n=1000) ===
+Decrease Operations: 500
+Comparisons: 816
+Swaps: 126
+Execution Time: 0.207209 ms
+
+=== MinHeap Merge Benchmark (n=1000) ===
+Heap1 Size: 1000
+Heap2 Size: 1000
+Merged Size: 2000
+Comparisons: 0
+Swaps: 0
+Execution Time: 0.348833 ms
+
+==================================================
+BENCHMARKING SIZE: 10000
+==================================================
+=== MinHeap Insert Benchmark (n=10000) ===
+Size: 10000
+Comparisons: 22655
+Swaps: 12662
+Execution Time: 2.069042 ms
+Average Time per Insert: 2.069042E-4 ms
+
+=== MinHeap Extract Benchmark (n=10000) ===
+Extractions: 10000
+Comparisons: 233526
+Swaps: 106764
+Execution Time: 8.88375 ms
+Average Time per Extract: 8.88375E-4 ms
+
+=== MinHeap DecreaseKey Benchmark (n=10000) ===
+Decrease Operations: 5000
+Comparisons: 4496
+Swaps: 883
+Execution Time: 1.098042 ms
+
+=== MinHeap Merge Benchmark (n=10000) ===
+Heap1 Size: 10000
+Heap2 Size: 10000
+Merged Size: 20000
+Comparisons: 0
+Swaps: 0
+Execution Time: 1.983625 ms
+
+==================================================
+BENCHMARKING SIZE: 100000
+==================================================
+=== MinHeap Insert Benchmark (n=100000) ===
+Size: 100000
+Comparisons: 227243
+Swaps: 127250
+Execution Time: 8.722875 ms
+Average Time per Insert: 8.722875E-5 ms
+
+=== MinHeap Extract Benchmark (n=100000) ===
+Extractions: 100000
+Comparisons: 2999412
+Swaps: 1399707
+Execution Time: 73.194625 ms
+Average Time per Extract: 7.3194625E-4 ms
+
+=== MinHeap DecreaseKey Benchmark (n=100000) ===
+Decrease Operations: 50000
+Comparisons: 8913
+Swaps: 2235
+Execution Time: 5.920208 ms
+
+=== MinHeap Merge Benchmark (n=100000) ===
+Heap1 Size: 100000
+Heap2 Size: 100000
+Merged Size: 200000
+Comparisons: 0
+Swaps: 0
+Execution Time: 21.630875 ms
